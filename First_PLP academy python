@@ -4,7 +4,7 @@ Value = FirstNum + SecondNum
 Value2 = FirstNum - SecondNum
 Value3 = FirstNum / SecondNum
 Value4 = FirstNum % SecondNum
-print(Value)
-print(Value2)
-print(Value3)
-print(Value4)
+print("FirstNum + SecondNum =", Value)
+print("FirstNum - SecondNum =", Value2)
+print("FirstNum / SecondNum =", Value3)
+print("FirstNum % SecondNum =", Value4)
