@@ -1,0 +1,10 @@
+FirstNum = float(input("Enter the first number"))
+SecondNum = float(input("Enter second number "))
+Value = FirstNum + SecondNum
+Value2 = FirstNum - SecondNum
+Value3 = FirstNum / SecondNum
+Value4 = FirstNum % SecondNum
+print(Value)
+print(Value2)
+print(Value3)
+print(Value4)
